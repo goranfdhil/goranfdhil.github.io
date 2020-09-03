@@ -1,0 +1,434 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+/* strat services */
+
+/* end services */
+
+/* start we make */
+.section2 {
+  width: 100%;
+  height: 600px;
+  background-color: #eff7fa;
+  
+}
+.section2 .works {
+  width: 270px;
+  height: 200px;
+  float: left;
+  text-align: center;
+  margin: 15px 30px 15px 0px;
+  background-color: #ba0c0c;
+  box-shadow: 15px 15px 15px #ccc;
+    position: relative;
+    left: 90px;
+}
+.section2  .works h3 {
+  color: #af4a4a;
+  margin-top: 85px;
+}
+.section2  .works p {
+  color: #1f4b5c;
+  text-transform: capitalize;
+}
+.section2  .works:first-of-type {
+  background-color: #33d1cc;
+}
+.section2  .works:last-of-type {
+  margin-right: 0;
+}
+.section2 #num4 {
+  margin-right: 0;
+}
+
+
+
+/* end we make */
+
+/* start some stuff about us */
+.section3 {
+  width: 100%;
+  height: 790px;
+  background-color: #fff;
+  padding: 60px 0;
+  text-align: center;
+}
+.section3 .container {
+  position: relative;
+}
+.section3 .container img:first-of-type {
+  margin-bottom: 50px;
+  margin-top: 10px;
+}
+.section3 .container p {
+  margin-top: 15px;
+  color: #a8b9c0;
+  text-transform: uppercase;
+  font-size: 12px;
+}
+.section3 .container h1 {
+  color: #1a2940;
+}
+.section3 .container hr {
+  width: 150px;
+  height: 1px;
+  border: none;
+  background-color: #00c6bf;
+  margin: auto;
+  margin-bottom: 25px;
+  margin-top: 15px;
+}
+.section3 .container p:last-of-type {
+  width: 500px;
+  font-size: 12px;
+  color: #a8b9c0;
+  text-transform: lowercase;
+  margin: auto;
+}
+.section3 .container .details {
+  float: left;
+  width: 400px;
+  text-align: left;
+}
+.section3 .container img:last-of-type {
+  float: right;
+  margin-top: 47px;
+}
+.section3 .container #logopc {
+  width: 540px;
+  height: 340px;
+  position: absolute;
+  background-color: #19283f;
+  margin-top: 70px;
+  margin-left: 541px;
+  text-align: center;
+  padding-top: 100px;
+  padding-right: 230px;
+}
+.section3 .container h2 {
+  color: #1a2940;
+  margin-bottom: 30px;
+  margin-top: 150px;
+  text-transform: capitalize;
+}
+.section3 .container #retinadetails {
+  width: 320px;
+  height: 150px;
+  color: #a8b9c0;
+  text-align: left;
+  float: left;
+}
+
+.section3 .container .details button {
+  width: 200px;
+  height: 45px;
+  border: none;
+  border-radius: 15px;
+  background-color: rgb(255, 49, 80);
+  color: #ffbb06;
+  text-transform: uppercase;
+  padding: 0 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+/* end some stuff about us */
+
+/* start meet the team */
+.section4 {
+  width: 100%;
+  height: 715px;
+  background-color: #eff7fa;
+}
+.section4 .container {
+  position: relative;
+  text-align: center;
+  padding: 60px 0;
+}
+.section4 .container h1 {
+  color: #ffbb06;
+  width: 220px;
+  margin: auto;
+  margin-bottom: 30px;
+}
+.section4 .container p:first-of-type {
+  width: 930px;
+  font-size: 14px;
+  color: #a8b9c0;
+  margin: auto;
+  line-height: 1.5em;
+}
+.section4 .container .member {
+  width: 270px;
+  height: 390px;
+  margin: 60px 30px 60px 0;
+  float: left;
+  background: #fff;
+  text-align: center;
+  box-shadow: 15px 15px 15px #ccc;
+}
+.section4 .container .member:last-of-type {
+  margin-right: 0;
+}
+.section4 .container .member h3 {
+  height: 50px;
+  width: 100%;
+  background-color: #33d1cc;
+  color: #fff;
+  margin-top: 220px;
+  line-height: 50px;
+  text-transform: capitalize;
+  margin-bottom: 35px;
+}
+.section4 .container .member p {
+  color: #a8b9c0;
+  font-size: 14px;
+  width: 267px;
+}
+/* start meet the team */
+
+/* start logos */
+.section5 {
+  width: 100%;
+  height: 180px;
+  background-color: #fff;
+}
+.section5 .container .logo {
+  width: 195px;
+  height: 180px;
+  float: left;
+  text-align: center;
+}
+.section5 .container .logo img {
+  margin-top: 65px;
+  cursor: pointer;
+}
+/* start logos */
+
+/* start your project */
+.section6 {
+  width: 100%;
+  height: 390px;
+  background-color: #19283f;
+  text-align: center;
+  padding: 1px 0;
+}
+.section6 .container h1 {
+  color: #f0f8fb;
+  font-size: 2.7em;
+  margin-top: 127px;
+  margin-bottom: 15px;
+}
+.section6 .container p {
+  font-size: 14px;
+  color: #a8b9c0;
+  width: 520px;
+  margin: auto;
+}
+.section6 .container button {
+  background-color: rgb(255, 49, 80);
+  color: #ffbb06;
+  border-radius: 20px;
+  width: 190px;
+  height: 45px;
+  border: none;
+  font-weight: bold;
+  margin-top: 45px;
+  cursor: pointer;
+}
+/* end start your project */
+
+/* start blog */
+.section7 {
+  width: 100%;
+  height: 650px;
+  background-color: #fff;
+  text-align: center;
+  padding: 55px 0;
+}
+.section7 .container img:first-of-type {
+  margin-bottom: 50px;
+}
+.section7 .container p {
+  margin-top: 15px;
+  color: #a8b9c0;
+  text-transform: uppercase;
+  font-size: 12px;
+}
+.section7 .container hr {
+  width: 150px;
+  height: 1px;
+  border: none;
+  background-color: #00c6bf;
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 60px;
+}
+.section7 .container .blog {
+  width: 360px;
+  height: 210px;
+  margin-right: 30px;
+  float: left;
+  margin-bottom: 40px;
+  text-align: left;
+}
+.section7 .container .blog .label {
+  background-color: #eff7fa;
+  height: 130px;
+  width: 100%;
+}
+.section7 .container .blog:last-of-type {
+  margin-right: 0;
+}
+
+.section7 .container .blog h4 {
+  margin-top: 10px;
+  color: #1a2940;
+}
+.section7 .container button {
+  width: 200px;
+  height: 45px;
+  border: none;
+  border-radius: 15px;
+  background-color: rgb(255, 49, 80);
+  color: #ffbb06;
+  text-transform: uppercase;
+  padding: 0 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+/* end blog */
+
+/* start subscribe */
+.section8 {
+  width: 100%;
+  height: 90px;
+  background-color: #ffc400;
+}
+.section8 .container {
+  padding: 25px 100px;
+}
+.section8 .container h3 {
+  color: #29333c;
+  float: left;
+  margin-right: 45px;
+  line-height: 35px;
+}
+.section8 .container input {
+  float: left;
+  width: 440px;
+  height: 35px;
+  line-height: 35px;
+  border: none;
+  border-bottom: 1px solid #fff;
+  color: #fff;
+  text-align: left;
+  margin-right: 30px;
+  background: none;
+}
+.section8 .container button {
+  width: 200px;
+  height: 45px;
+  background-color: #19283f;
+  color: #ffbb06;
+  float: left;
+  border: none;
+  border-radius: 25px;
+}
+/* start subscribe */
+
+/* start footer */
+footer {
+  width: 100%;
+  height: 350px;
+  background-color: #19283f;
+  padding: 55px 0;
+}
+footer .container .lic {
+  width: 35%;
+  height: 100%;
+  text-align: left;
+  float: left;
+  margin-right: 15px;
+}
+footer .container .lic img {
+  margin-bottom: 30px;
+}
+footer .container .lic p {
+  font-size: 14px;
+  line-height: 30px;
+  color: #a8b9c0;
+  margin-bottom: 70px;
+}
+footer .container .lic h5 {
+  color: #a8b9c0;
+  margin-bottom: 5px;
+}
+
+footer .container .links {
+  width: 15%;
+  height: 100%;
+  float: left;
+  margin-right: 30px;
+}
+footer .container .links ul,
+footer .container .about ul {
+  list-style: none;
+  color: #fff;
+}
+footer .container .links ul li:first-of-type,
+footer .container .about ul li:first-of-type {
+  margin-top: 5px;
+}
+footer .container .links ul li,
+footer .container .about ul li {
+  font-size: 14px;
+  color: #a8b9c0;
+  padding: 11px 0;
+  text-transform: capitalize;
+}
+footer .container .links ul li:hover,
+footer .container .about ul li:hover {
+  color: #e1e7e9;
+}
+footer .container .about {
+  float: left;
+}
+
+footer .container .contact {
+  float: right;
+  width: 35%;
+  height: 100%;
+}
+footer .container .contact h4 {
+  color: #fff;
+  font-size: 14px;
+  margin-bottom: 15px;
+}
+footer .container .contact p {
+  color: #a8b9c0;
+  font-size: 12px;
+  margin-bottom: 40px;
+  width: 300px;
+}
+footer .container .contact button {
+  width: 370px;
+  height: 45px;
+  background-color: rgb(255, 49, 80);
+  color: #fff;
+  font-size: 12px;
+  border: none;
+  border-radius: 25px;
+  line-height: 45px;
+  cursor: pointer;
+  margin-bottom: 40px;
+}
+footer img,
+footer span,
+footer li {
+  cursor: pointer;
+}
+/* start footer */
