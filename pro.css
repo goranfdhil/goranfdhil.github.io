@@ -1,0 +1,66 @@
+ body{
+    font-family: sans-serif
+}
+
+#nav-bar{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    
+}
+.navbar{
+   
+  background-image: linear-gradient(to right ,#692df0 ,#0072ce) ;
+   padding: 0!important;
+}
+.navbar-brand img {height: 50px;padding-left: 20px;}
+
+ul li{
+    padding: 0 20px;
+}
+ul li a{
+    color: white!important;
+    font-weight: 500;
+    float: right;
+    text-align: left;
+}
+ul li a:hover{
+    color: #ff6200!important;
+    
+}
+
+
+#banner{
+   background-image: linear-gradient(to right ,#692df0 ,#0072ce) ;
+    color: white;
+    padding-top: 5%;
+}
+
+.we{
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 100px;
+}
+.inf{
+    height: 300px;
+    width: 300px;
+}
+
+.ss{
+    image-resolution: from-image
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
